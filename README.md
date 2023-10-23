@@ -1,5 +1,11 @@
-## <img src="https://komarev.com/ghpvc/?username=edsonmoretti&color=45b6fe&base=1508" /> Edson Moretti - Developer 
+## <img src="https://komarev.com/ghpvc/?username=edsonmoretti&color=45b6fe&base=1508" /> Edson Moretti - Desenvolvedor Sênior
+
 👨‍💻 Apaixonado por programação e inovação, estou em uma jornada para criar soluções criativas e transformadoras. Meu foco é aprimorar minhas habilidades e compartilhar meu conhecimento com a comunidade.
+
+- Especialista em Gestão Estratégica com Pessoas pela Universidade de Pernambuco
+- Especialista em Cloud Computing pela Universidade de Pernambuco.
+- Especialista em Business Intelligence, Big Data e Analytics - Ciência de Dados pela UNOPAR
+- Pós-graduação em Arquitetura e Sistemas de Informação - Faculdade FOCUS
 
 <div align="">
   <a a href="https://edsonmoretti.com.br">
@@ -45,4 +51,42 @@
 </p>
 
 ##
-README VIEW COUNT: <img src="https://visitcount.itsvg.in/api?id=edsonmoretti&label=Profile%20Views&color=12&pretty=true" />
+
+#### Principais experiências
+•	PHP;
+•	Go Lang
+•	NodeJS
+•	Java;
+•	Laravel;
+•	Yii2;
+•	JavaScript;
+•	JQuery;
+•	SQL (MySQL, PostgreSQL, SQL Server, PL SQL, DB2);
+•	Nextcloud;
+•	Pentaho Data Integration;
+•	PowerBI;
+
+##### Outros conhecimentos
+•	AWS (EC2, S3, Systems Manager);
+•	Amazon Alexa Developer;
+•	Windows Server – Active Directory;
+•	Cabeamento Estruturado;
+•	Hyper-V;
+•	VM Ware;
+•	SonicWall;
+•	Mikrotik;
+•	ActiveMQ;
+•	iReport;
+•	OpenFire;
+•	WordPress;
+•	ZennoPoster;
+•	Bootstrap;
+•	CloudStack;
+•	SpringBoot;
+•	Kotlin;
+•	Twig;
+•	Keycloak;
+•	Symfony;
+•	Rancher.
+
+##
