@@ -53,40 +53,40 @@
 ##
 
 #### Principais experiências
-•	PHP;
-•	Go Lang
-•	NodeJS
-•	Java;
-•	Laravel;
-•	Yii2;
-•	JavaScript;
-•	JQuery;
-•	SQL (MySQL, PostgreSQL, SQL Server, PL SQL, DB2);
-•	Nextcloud;
-•	Pentaho Data Integration;
-•	PowerBI;
+ - PHP;
+ - Go Lang
+ - NodeJS
+ - Java;
+ - Laravel;
+ - Yii2;
+ - JavaScript;
+ - JQuery;
+ - SQL (MySQL, PostgreSQL, SQL Server, PL SQL, DB2);
+ - Nextcloud;
+ - Pentaho Data Integration;
+ - PowerBI;
 
 ##### Outros conhecimentos
-•	AWS (EC2, S3, Systems Manager);
-•	Amazon Alexa Developer;
-•	Windows Server – Active Directory;
-•	Cabeamento Estruturado;
-•	Hyper-V;
-•	VM Ware;
-•	SonicWall;
-•	Mikrotik;
-•	ActiveMQ;
-•	iReport;
-•	OpenFire;
-•	WordPress;
-•	ZennoPoster;
-•	Bootstrap;
-•	CloudStack;
-•	SpringBoot;
-•	Kotlin;
-•	Twig;
-•	Keycloak;
-•	Symfony;
-•	Rancher.
+ - AWS (EC2, S3, Systems Manager);
+ - Amazon Alexa Developer;
+ - Windows Server – Active Directory;
+ - Cabeamento Estruturado;
+ - Hyper-V;
+ - VM Ware;
+ - SonicWall;
+ - Mikrotik;
+ - ActiveMQ;
+ - iReport;
+ - OpenFire;
+ - WordPress;
+ - ZennoPoster;
+ - Bootstrap;
+ - CloudStack;
+ - SpringBoot;
+ - Kotlin;
+ - Twig;
+ - Keycloak;
+ - Symfony;
+ - Rancher.
 
 ##
