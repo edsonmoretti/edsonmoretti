@@ -2,7 +2,7 @@
 
 👨‍💻 Apaixonado por programação e inovação, estou em uma jornada para criar soluções criativas e transformadoras. Meu foco é aprimorar minhas habilidades e compartilhar meu conhecimento com a comunidade.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/edsonmoretti/edsonmoretti)
+[![trophy](https://github-profile-trophy.vercel.app/?username=edsonmoretti&theme=onedark)](https://linkedin.com/in/edsonmoretti)
 
 - Especialista em Gestão Estratégica com Pessoas pela Universidade de Pernambuco
 - Especialista em Cloud Computing pela Universidade de Pernambuco.
