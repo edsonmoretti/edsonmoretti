@@ -52,18 +52,30 @@
             width="40" /></a>
 </p>
 
-##
 
-#### Principais experiências
+#### Principais linguagens
  - PHP;
- - Go Lang
- - NodeJS
- - Java;
- - Laravel;
- - Yii2;
+ - TypeScript;
  - JavaScript;
+ - Go;
+ - Java;
+ - SQL;
+
+#### Principais frameworks e ferramentas
+ - Laravel;
+ - NestJS;
+ - React.JS;
+ - NodeJS;
+ - NextJS;
+ - Yii2;
  - JQuery;
- - SQL (MySQL, PostgreSQL, SQL Server, PL SQL, DB2);
+ - SQL
+   - MySQL;
+   - PostgreSQL;
+   - SQL Server;
+   - PL SQL;
+   - DB2;
+ - MongoDB;
  - Nextcloud;
  - Pentaho Data Integration;
  - PowerBI;
@@ -90,5 +102,3 @@
  - Keycloak;
  - Symfony;
  - Rancher.
-
-##
