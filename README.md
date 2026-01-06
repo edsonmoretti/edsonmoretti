@@ -1,104 +1,102 @@
-## <img src="https://komarev.com/ghpvc/?username=edsonmoretti&color=45b6fe&base=1508" /> Edson Moretti - Desenvolvedor Sênior
+# Edson Moretti
 
-👨‍💻 Apaixonado por programação e inovação, estou em uma jornada para criar soluções criativas e transformadoras. Meu foco é aprimorar minhas habilidades e compartilhar meu conhecimento com a comunidade.
+<img src="https://komarev.com/ghpvc/?username=edsonmoretti&label=Profile%20views&color=0e75b6&style=flat" alt="edsonmoretti" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=edsonmoretti&theme=onedark)](https://linkedin.com/in/edsonmoretti)
+![Snake animation](https://github.com/edsonmoretti/edsonmoretti/blob/output/github-contribution-grid-snake.svg)
 
-- Especialista em Gestão Estratégica com Pessoas pela Universidade de Pernambuco
-- Especialista em Cloud Computing pela Universidade de Pernambuco.
-- Especialista em Business Intelligence, Big Data e Analytics - Ciência de Dados pela UNOPAR
-- Pós-graduação em Arquitetura e Sistemas de Informação - Faculdade FOCUS
+### 👨‍💻 Desenvolvedor Sênior | Backend | Cloud | Arquitetura
 
-<div align="">
-  <a a href="https://edsonmoretti.com.br">
-        <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonmoretti&layout=compact&langs_count=10" />
-      <img height="150" src="https://github-readme-stats.vercel.app/api?username=edsonmoretti&show_icons=true" />
-  <br>
-  
-  </a>
+Apaixonado por tecnologia, inovação e arquitetura de software.  
+Atuo no desenvolvimento de soluções escaláveis, com foco em **backend, cloud computing e dados**, sempre compartilhando conhecimento com a comunidade.
+
+---
+
+## 🏆 Conquistas
+[![trophy](https://github-profile-trophy.vercel.app/?username=edsonmoretti&theme=onedark&margin-w=15&margin-h=15)](https://github.com/edsonmoretti)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=edsonmoretti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=edsonmoretti&theme=tokyonight"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="GO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" alt="Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
-  ##
-  
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="MariaDB" height="30" width="40" src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png">
-  <img align="center" alt="Postgress" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonmoretti&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-  
-  ##
-  
-<h3 align="center">Conecte-se comigo:</h3>
-<p align="center">
-    <a href="https://www.facebook.com/edsonmoretti/" target="blank"><img align="center"
-            src="https://cdn.iconscout.com/icon/free/png-64/facebook-2038471-1718509.png" alt="facebook" height="40"
-            width="40" /></a>
-    <a href="https://www.linkedin.com/in/edsonmoretti/" target="blank"><img align="center"
-            src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
-            width="40" /></a>
-    <a href="https://www.instagram.com/edson.dev/" target="blank"><img align="center"
-            src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40"
-            width="40" /></a>
+
+---
+
+## 🧠 Formação Acadêmica
+- 🎓 Especialista em **Gestão Estratégica com Pessoas** – UPE  
+- ☁️ Especialista em **Cloud Computing** – UPE  
+- 📊 Especialista em **BI, Big Data e Analytics (Ciência de Dados)** – UNOPAR  
+- 🏗️ Pós-graduação em **Arquitetura e Sistemas de Informação** – Faculdade FOCUS  
+
+---
+
+## 🚀 Tecnologias Principais
+
+### Linguagens
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
 </p>
 
+### Frameworks & Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
+</p>
 
-#### Principais linguagens
- - PHP;
- - TypeScript;
- - JavaScript;
- - Go;
- - Java;
- - SQL;
+### Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
+</p>
 
-#### Principais frameworks e ferramentas
- - Laravel;
- - NestJS;
- - React.JS;
- - NodeJS;
- - NextJS;
- - Yii2;
- - JQuery;
- - SQL
-   - MySQL;
-   - PostgreSQL;
-   - SQL Server;
-   - PL SQL;
-   - DB2;
- - MongoDB;
- - Nextcloud;
- - Pentaho Data Integration;
- - PowerBI;
+### Bancos de Dados
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+</p>
 
-##### Outros conhecimentos
- - AWS (EC2, S3, Systems Manager);
- - Amazon Alexa Developer;
- - Windows Server – Active Directory;
- - Cabeamento Estruturado;
- - Hyper-V;
- - VM Ware;
- - SonicWall;
- - Mikrotik;
- - ActiveMQ;
- - iReport;
- - OpenFire;
- - WordPress;
- - ZennoPoster;
- - Bootstrap;
- - CloudStack;
- - SpringBoot;
- - Kotlin;
- - Twig;
- - Keycloak;
- - Symfony;
- - Rancher.
+---
+
+## ☁️ Cloud & Infra
+- AWS (EC2, S3, Systems Manager)
+- Docker & Rancher
+- CloudStack
+- Hyper-V / VMware
+- Mikrotik & SonicWall
+- Windows Server / Active Directory
+
+---
+
+## 📈 Dados & Integrações
+- Pentaho Data Integration
+- Power BI
+- ActiveMQ
+- PL/SQL, DB2, SQL Server
+- Keycloak
+- OpenFire
+
+---
+
+## 🌐 Conecte-se comigo
+<p>
+  <a href="https://edsonmoretti.com.br" target="_blank">🌎 Site</a> •
+  <a href="https://www.linkedin.com/in/edsonmoretti/" target="_blank">LinkedIn</a> •
+  <a href="https://www.instagram.com/edson.dev/" target="_blank">Instagram</a> •
+  <a href="https://www.facebook.com/edsonmoretti/" target="_blank">Facebook</a>
+</p>
+
